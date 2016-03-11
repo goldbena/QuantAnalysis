@@ -1,0 +1,231 @@
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_LAST for 15 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(16) FX priced for date (2016-03-01)
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_DIRTY_MID,DUR_ADJ_MID,CNVX_ASK,YLD_CNV_LAST,OAS_SPREAD_ASK,PARTIAL_DURATIONS_AS_OF for 9 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(9) securities priced from Bloomberg for date (2016-03-02)
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for OAS_KEY_RATE_DUR_3M,OAS_KEY_RATE_DUR_6M,OAS_KEY_RATE_DUR_1YR,OAS_KEY_RATE_DUR_2YR,OAS_KEY_RATE_DUR_3YR,OAS_KEY_RATE_DUR_5YR,OAS_KEY_RATE_DUR_7YR,OAS_KEY_RATE_DUR_10YR,OAS_KEY_RATE_DUR_20YR,OAS_KEY_RATE_DUR_30YR for 1 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+KRD for linkers updated on date 2016-03-02 for (1) identifiers.
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_DISC_MID for 1 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+Bills pricing updated on date 2016-03-02 for (1) identifiers.
+*************************
+*************************
+(16) currencies priced for date (2016-03-02)
+*************************
+*************************
+(3) deposits or CP priced for date (2016-03-02)
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_LAST for 15 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(16) FX priced for date (2016-03-02)
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_DIRTY_MID,DUR_ADJ_MID,CNVX_ASK,YLD_CNV_LAST,OAS_SPREAD_ASK,PARTIAL_DURATIONS_AS_OF for 9 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(9) securities priced from Bloomberg for date (2016-03-02)
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for OAS_KEY_RATE_DUR_3M,OAS_KEY_RATE_DUR_6M,OAS_KEY_RATE_DUR_1YR,OAS_KEY_RATE_DUR_2YR,OAS_KEY_RATE_DUR_3YR,OAS_KEY_RATE_DUR_5YR,OAS_KEY_RATE_DUR_7YR,OAS_KEY_RATE_DUR_10YR,OAS_KEY_RATE_DUR_20YR,OAS_KEY_RATE_DUR_30YR for 1 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+KRD for linkers updated on date 2016-03-02 for (1) identifiers.
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_DISC_MID for 1 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(2016-03-02) Bills price updated on date 1.
+*************************
+*************************
+(16) currencies priced for date (2016-03-02)
+*************************
+*************************
+(3) deposits or CP priced for date (2016-03-02)
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_LAST for 15 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(16) FX priced for date (2016-03-02)
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_DIRTY_MID,DUR_ADJ_MID,CNVX_ASK,YLD_CNV_LAST,OAS_SPREAD_ASK,PARTIAL_DURATIONS_AS_OF for 9 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(9) securities priced from Bloomberg for date (2016-03-03)
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for OAS_KEY_RATE_DUR_3M,OAS_KEY_RATE_DUR_6M,OAS_KEY_RATE_DUR_1YR,OAS_KEY_RATE_DUR_2YR,OAS_KEY_RATE_DUR_3YR,OAS_KEY_RATE_DUR_5YR,OAS_KEY_RATE_DUR_7YR,OAS_KEY_RATE_DUR_10YR,OAS_KEY_RATE_DUR_20YR,OAS_KEY_RATE_DUR_30YR for 1 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+KRD for linkers updated on date 2016-03-03 for (1) identifiers.
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_DISC_MID for 1 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(2016-03-03) Bills price updated on date 1.
+*************************
+*************************
+(16) currencies priced for date (2016-03-03)
+*************************
+*************************
+(3) deposits or CP priced for date (2016-03-03)
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_LAST for 15 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(16) FX priced for date (2016-03-03)
+*************************
+*************************
+START PRICING ALL:
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_DIRTY_MID,DUR_ADJ_MID,CNVX_ASK,YLD_CNV_LAST,OAS_SPREAD_ASK,PARTIAL_DURATIONS_AS_OF for 9 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(9) securities priced from Bloomberg for date (2016-03-04)
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for OAS_KEY_RATE_DUR_3M,OAS_KEY_RATE_DUR_6M,OAS_KEY_RATE_DUR_1YR,OAS_KEY_RATE_DUR_2YR,OAS_KEY_RATE_DUR_3YR,OAS_KEY_RATE_DUR_5YR,OAS_KEY_RATE_DUR_7YR,OAS_KEY_RATE_DUR_10YR,OAS_KEY_RATE_DUR_20YR,OAS_KEY_RATE_DUR_30YR for 1 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+KRD for linkers updated on date 2016-03-04 for (1) identifiers.
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_DISC_MID for 1 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(2016-03-04) Bills price updated on date 1.
+*************************
+*************************
+(16) currencies priced for date (2016-03-04)
+*************************
+*************************
+(3) deposits or CP priced for date (2016-03-04)
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_LAST for 15 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(16) FX priced for date (2016-03-04)
+*************************
+*************************
+END PRICING ALL.
+*************************
+*************************
+(2016-03-04 09:20:44.774000) - START PRICING ALL:
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_DIRTY_MID,DUR_ADJ_MID,CNVX_ASK,YLD_CNV_LAST,OAS_SPREAD_ASK,PARTIAL_DURATIONS_AS_OF for 9 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(9) securities priced from Bloomberg for date (2016-03-04)
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for OAS_KEY_RATE_DUR_3M,OAS_KEY_RATE_DUR_6M,OAS_KEY_RATE_DUR_1YR,OAS_KEY_RATE_DUR_2YR,OAS_KEY_RATE_DUR_3YR,OAS_KEY_RATE_DUR_5YR,OAS_KEY_RATE_DUR_7YR,OAS_KEY_RATE_DUR_10YR,OAS_KEY_RATE_DUR_20YR,OAS_KEY_RATE_DUR_30YR for 1 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+KRD for linkers updated on date 2016-03-04 for (1) identifiers.
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_DISC_MID for 1 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(2016-03-04) Bills price updated on date 1.
+*************************
+*************************
+(16) currencies priced for date (2016-03-04)
+*************************
+*************************
+(3) deposits or CP priced for date (2016-03-04)
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_LAST for 15 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(16) FX priced for date (2016-03-04)
+*************************
+*************************
+(2016-03-04 09:21:01.413000) - END PRICING ALL.
+*************************

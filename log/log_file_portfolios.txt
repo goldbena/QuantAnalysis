@@ -1,0 +1,1054 @@
+*************************
+Portfolio Test opened for date 2016-03-02 using positions from 2016-03-01.
+*************************
+*************************
+Portfolio Test priced for date 2016-03-02
+*************************
+*************************
+BMK Test opened for date 2016-03-02 using positions from 2016-03-01.
+*************************
+*************************
+BMK Test priced for date 2016-03-02
+*************************
+*************************
+Portfolio Test priced for date 2016-03-02
+*************************
+*************************
+BMK Test priced for date 2016-03-02
+*************************
+*************************
+Portfolio Test priced for date 2016-03-02
+*************************
+*************************
+BMK Test priced for date 2016-03-02
+*************************
+*************************
+Simulated trades deleted for Test portfolio on date 2016-03-02
+*************************
+*************************
+Portfolio Test opened for date 2016-03-03 using positions from 2016-03-02.
+*************************
+*************************
+Portfolio Test priced for date 2016-03-03
+*************************
+*************************
+BMK Test opened for date 2016-03-03 using positions from 2016-03-02.
+*************************
+*************************
+BMK Test priced for date 2016-03-03
+*************************
+*************************
+Portfolio Test opened for date 2016-03-04 using positions from 2016-03-03.
+*************************
+*************************
+Portfolio Test priced for date 2016-03-04
+*************************
+*************************
+BMK Test opened for date 2016-03-04 using positions from 2016-03-03.
+*************************
+*************************
+BMK Test priced for date 2016-03-04
+*************************
+*************************
+Simulated trades deleted from portfolio Test for date 2016-03-04
+*************************
+*************************
+Portfolio Test priced for date 2016-03-04
+*************************
+*************************
+BMK Test priced for date 2016-03-04
+*************************
+*************************
+Simulated trades deleted from portfolio Test for date 2016-03-04
+*************************
+*************************
+Portfolio Test priced for date 2016-03-04
+*************************
+*************************
+BMK Test priced for date 2016-03-04
+*************************
+*************************
+Simulated trades deleted from portfolio Test for date 2016-03-04
+*************************
+*************************
+Portfolio Test priced for date 2016-03-04
+*************************
+*************************
+BMK Test priced for date 2016-03-04
+*************************
+*************************
+Portfolio Test priced for date 2016-03-04
+*************************
+*************************
+BMK Test priced for date 2016-03-04
+*************************
+*************************
+Simulated trades deleted from portfolio Test for date 2016-03-04
+*************************
+*************************
+Portfolio Test priced for date 2016-03-04
+*************************
+*************************
+BMK Test priced for date 2016-03-04
+*************************
+*************************
+Simulated trades deleted from portfolio Test for date 2016-03-04
+*************************
+*************************
+Portfolio Test priced for date 2016-03-04
+*************************
+*************************
+BMK Test priced for date 2016-03-04
+*************************
+*************************
+Portfolio Test priced for date 2016-03-04
+*************************
+*************************
+BMK Test priced for date 2016-03-04
+*************************
+*************************
+Simulated trades deleted from portfolio Test for date 2016-03-04
+*************************
+*************************
+Portfolio Test priced for date 2016-03-04
+*************************
+*************************
+BMK Test priced for date 2016-03-04
+*************************
+*************************
+Portfolio Test priced for date 2016-03-04
+*************************
+*************************
+BMK Test priced for date 2016-03-04
+*************************
+*************************
+Simulated trades deleted from portfolio Test for date 2016-03-04
+*************************
+*************************
+Portfolio Test priced for date 2016-03-04
+*************************
+*************************
+BMK Test priced for date 2016-03-04
+*************************
+*************************
+Portfolio Test priced for date 2016-03-04
+*************************
+*************************
+BMK Test priced for date 2016-03-04
+*************************
+*************************
+Simulated trades deleted from portfolio Test for date 2016-03-04
+*************************
+*************************
+Portfolio Test priced for date 2016-03-04
+*************************
+*************************
+BMK Test priced for date 2016-03-04
+*************************
+*************************
+Portfolio Test priced for date 2016-03-04
+*************************
+*************************
+BMK Test priced for date 2016-03-04
+*************************
+*************************
+Simulated trades deleted from portfolio Test for date 2016-03-04
+*************************
+*************************
+Portfolio Test priced for date 2016-03-04
+*************************
+*************************
+BMK Test priced for date 2016-03-04
+*************************
+*************************
+
+(2016-03-07 12:48:05.111000) - START PRICING ALL:
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_DIRTY_MID,DUR_ADJ_MID,CNVX_ASK,YLD_CNV_LAST,OAS_SPREAD_ASK,PARTIAL_DURATIONS_AS_OF for 9 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(9) securities priced from Bloomberg for date (2016-03-07)
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for OAS_KEY_RATE_DUR_3M,OAS_KEY_RATE_DUR_6M,OAS_KEY_RATE_DUR_1YR,OAS_KEY_RATE_DUR_2YR,OAS_KEY_RATE_DUR_3YR,OAS_KEY_RATE_DUR_5YR,OAS_KEY_RATE_DUR_7YR,OAS_KEY_RATE_DUR_10YR,OAS_KEY_RATE_DUR_20YR,OAS_KEY_RATE_DUR_30YR for 1 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+KRD for linkers updated on date 2016-03-07 for (1) identifiers.
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_DISC_MID for 1 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(2016-03-07) Bills price updated on date 1.
+*************************
+*************************
+(16) currencies priced for date (2016-03-07)
+*************************
+*************************
+(3) deposits or CP priced for date (2016-03-07)
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_LAST for 15 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(16) FX priced for date (2016-03-07)
+*************************
+*************************
+(2016-03-07 12:48:17.696000) - END PRICING ALL.
+
+*************************
+*************************
+Portfolio Test opened for date 2016-03-07 using positions from 2016-03-04.
+*************************
+*************************
+Portfolio Test priced for date 2016-03-07
+*************************
+*************************
+BMK Test opened for date 2016-03-07 using positions from 2016-03-04.
+*************************
+*************************
+BMK Test priced for date 2016-03-07
+*************************
+*************************
+Portfolio Test priced for date 2016-03-07
+*************************
+*************************
+BMK Test priced for date 2016-03-07
+*************************
+*************************
+Simulated trades deleted from portfolio Test for date 2016-03-07
+*************************
+*************************
+Portfolio Test priced for date 2016-03-07
+*************************
+*************************
+BMK Test priced for date 2016-03-07
+*************************
+*************************
+Simulated trades deleted from portfolio Test for date 2016-03-07
+*************************
+*************************
+Portfolio Test priced for date 2016-03-07
+*************************
+*************************
+BMK Test priced for date 2016-03-07
+*************************
+*************************
+Portfolio Test priced for date 2016-03-07
+*************************
+*************************
+BMK Test priced for date 2016-03-07
+*************************
+*************************
+Simulated trades deleted from portfolio Test for date 2016-03-07
+*************************
+*************************
+Portfolio Test priced for date 2016-03-07
+*************************
+*************************
+Portfolio Test priced for date 2016-03-07
+*************************
+*************************
+Simulated trades are now committed on portfolio Test for date 2016-03-07
+*************************
+*************************
+Simulated trades are now committed on portfolio Test for date 2016-03-07
+*************************
+*************************
+Simulated trades are now committed on portfolio Test for date 2016-03-07
+*************************
+*************************
+Portfolio Test priced for date 2016-03-07
+*************************
+*************************
+Simulated trades are now committed on portfolio Test for date 2016-03-07
+*************************
+*************************
+Simulated trades deleted from portfolio Test for date 2016-03-07
+*************************
+*************************
+Portfolio Test opened for date 2016-03-07 using positions from 2016-03-01.
+*************************
+*************************
+Portfolio Test priced for date 2016-03-07
+*************************
+*************************
+BMK Test opened for date 2016-03-07 using positions from 2016-03-01.
+*************************
+*************************
+BMK Test priced for date 2016-03-07
+*************************
+*************************
+Simulated trades are now committed on portfolio Test for date 2016-03-04
+*************************
+*************************
+Portfolio Test opened for date 2016-03-07 using positions from 2016-03-04.
+*************************
+*************************
+Portfolio Test priced for date 2016-03-07
+*************************
+*************************
+BMK Test opened for date 2016-03-07 using positions from 2016-03-04.
+*************************
+*************************
+BMK Test priced for date 2016-03-07
+*************************
+*************************
+Portfolio Test opened for date 2016-03-07 using positions from 2016-03-04.
+*************************
+*************************
+Portfolio Test priced for date 2016-03-07
+*************************
+*************************
+BMK Test opened for date 2016-03-07 using positions from 2016-03-04.
+*************************
+*************************
+BMK Test priced for date 2016-03-07
+*************************
+*************************
+Simulated trades deleted from portfolio Test for date 2016-03-07
+*************************
+*************************
+Portfolio Test priced for date 2016-03-07
+*************************
+*************************
+Portfolio Test priced for date 2016-03-07
+*************************
+*************************
+Portfolio Test priced for date 2016-03-07
+*************************
+*************************
+Simulated trades are now committed on portfolio Test for date 2016-03-07
+*************************
+*************************
+Portfolio Test priced for date 2016-03-07
+*************************
+*************************
+Simulated trades deleted from portfolio Test for date 2016-03-07
+*************************
+*************************
+Portfolio Test priced for date 2016-03-07
+*************************
+*************************
+No data for Test portfolio in portfolios DataBase fro date 2016-03-08
+*************************
+*************************
+There is no information available for portfolio Test on date 2016-03-08
+*************************
+*************************
+No identifiers for type portfolios on portfolio Test for date 2016-03-08.
+*************************
+*************************
+
+(2016-03-08 09:05:39.697000) - START PRICING ALL:
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_DIRTY_MID,DUR_ADJ_MID,CNVX_ASK,YLD_CNV_LAST,OAS_SPREAD_ASK,PARTIAL_DURATIONS_AS_OF for 9 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(9) securities priced from Bloomberg for date (2016-03-08)
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for OAS_KEY_RATE_DUR_3M,OAS_KEY_RATE_DUR_6M,OAS_KEY_RATE_DUR_1YR,OAS_KEY_RATE_DUR_2YR,OAS_KEY_RATE_DUR_3YR,OAS_KEY_RATE_DUR_5YR,OAS_KEY_RATE_DUR_7YR,OAS_KEY_RATE_DUR_10YR,OAS_KEY_RATE_DUR_20YR,OAS_KEY_RATE_DUR_30YR for 1 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+KRD for linkers updated on date 2016-03-08 for (1) identifiers.
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_DISC_MID for 1 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(2016-03-08) Bills price updated on date 1.
+*************************
+*************************
+(16) currencies priced for date (2016-03-08)
+*************************
+*************************
+(3) deposits or CP priced for date (2016-03-08)
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_LAST for 15 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(16) FX priced for date (2016-03-08)
+*************************
+*************************
+(2016-03-08 09:05:54.905000) - END PRICING ALL.
+
+*************************
+*************************
+Portfolio Test opened for date 2016-03-08 using positions from 2016-03-07.
+*************************
+*************************
+Portfolio Test priced for date 2016-03-08
+*************************
+*************************
+BMK Test opened for date 2016-03-08 using positions from 2016-03-07.
+*************************
+*************************
+BMK Test priced for date 2016-03-08
+*************************
+*************************
+Portfolio Test priced for date 2016-03-08
+*************************
+*************************
+Simulated trades deleted from portfolio Test for date 2016-03-07
+*************************
+*************************
+Portfolio Test priced for date 2016-03-08
+*************************
+*************************
+Portfolio Test priced for date 2016-03-08
+*************************
+*************************
+Simulated trades are now committed on portfolio Test for date 2016-03-08
+*************************
+*************************
+Deposits and/or Commercial Papers inserted to securitiesDescription.
+*************************
+*************************
+Deposits and/or Commercial Papers inserted to securitiesDescription.
+*************************
+*************************
+Deposits and/or Commercial Papers inserted to securitiesDescription.
+*************************
+*************************
+(2) deposits or CP priced for date (2016-03-08)
+*************************
+*************************
+Deposits and/or Commercial Papers inserted to securitiesDescription.
+*************************
+*************************
+(2) deposits or CP priced for date (2016-03-08)
+*************************
+*************************
+Deposits and/or Commercial Papers inserted to securitiesDescription.
+*************************
+*************************
+Deposits and/or Commercial Papers inserted to securitiesDescription.
+*************************
+*************************
+
+(2016-03-08 15:33:15.952000) - START PRICING ALL:
+*************************
+*************************
+(2) deposits or CP priced for date (2016-03-08)
+*************************
+*************************
+(2016-03-08 15:33:16.074000) - END PRICING ALL.
+
+*************************
+*************************
+Deposits and/or Commercial Papers inserted to securitiesDescription.
+*************************
+*************************
+
+(2016-03-08 15:49:55.869000) - START PRICING ALL:
+*************************
+*************************
+(2) deposits or CP priced for date (2016-03-08)
+*************************
+*************************
+(2016-03-08 15:49:55.994000) - END PRICING ALL.
+
+*************************
+*************************
+Portfolio Test priced for date 2016-03-08
+*************************
+*************************
+Portfolio Test priced for date 2016-03-08
+*************************
+*************************
+*************************
+New portfolio Diversificacion created at 2016-03-08 16:54:51.535000
+*************************
+*************************
+New portfolio LMP created at 2016-03-08 16:57:25.902000
+*************************
+*************************
+New portfolio Mauro_Test created at 2016-03-08 17:47:31.154000
+*************************
+*************************
+Portfolio Mauro_Test priced for date 2016-03-08
+*************************
+*************************
+There is no information available for portfolio Mauro_Test on date 2016-03-08
+*************************
+*************************
+No identifiers for type BMK on portfolio Mauro_Test for date 2016-03-08.
+*************************
+*************************
+
+(2016-03-09 08:48:53.480000) - START PRICING ALL:
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_DIRTY_MID,DUR_ADJ_MID,CNVX_ASK,YLD_CNV_LAST,OAS_SPREAD_ASK,PARTIAL_DURATIONS_AS_OF for 9 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(9) securities priced from Bloomberg for date (2016-03-09)
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for OAS_KEY_RATE_DUR_3M,OAS_KEY_RATE_DUR_6M,OAS_KEY_RATE_DUR_1YR,OAS_KEY_RATE_DUR_2YR,OAS_KEY_RATE_DUR_3YR,OAS_KEY_RATE_DUR_5YR,OAS_KEY_RATE_DUR_7YR,OAS_KEY_RATE_DUR_10YR,OAS_KEY_RATE_DUR_20YR,OAS_KEY_RATE_DUR_30YR for 1 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+KRD for linkers updated on date 2016-03-09 for (1) identifiers.
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_DISC_MID for 1 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(2016-03-09) Bills price updated on date 1.
+*************************
+*************************
+(16) currencies priced for date (2016-03-09)
+*************************
+*************************
+(5) deposits or CP priced for date (2016-03-09)
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_LAST for 15 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(16) FX priced for date (2016-03-09)
+*************************
+*************************
+(2016-03-09 08:49:05.926000) - END PRICING ALL.
+
+*************************
+*************************
+Portfolio Test opened for date 2016-03-09 using positions from 2016-03-08.
+*************************
+*************************
+Portfolio Test priced for date 2016-03-09
+*************************
+*************************
+BMK Test opened for date 2016-03-09 using positions from 2016-03-08.
+*************************
+*************************
+BMK Test priced for date 2016-03-09
+*************************
+*************************
+New portfolio Mauro_Test created at 2016-03-09 09:15:55.414000
+*************************
+*************************
+Portfolio Mauro_Test priced for date 2016-03-09
+*************************
+*************************
+There is no information available for portfolio Mauro_Test on date 2016-03-09
+*************************
+*************************
+No identifiers for type BMK on portfolio Mauro_Test for date 2016-03-09.
+*************************
+*************************
+Portfolio Mauro_Test priced for date 2016-03-09
+*************************
+*************************
+There is no information available for portfolio Mauro_Test on date 2016-03-09
+*************************
+*************************
+No identifiers for type BMK on portfolio Mauro_Test for date 2016-03-09.
+*************************
+*************************
+Portfolio Mauro_Test priced for date 2016-03-09
+*************************
+*************************
+There is no information available for BMK Mauro_Test on date 2016-03-09
+*************************
+*************************
+No identifiers for type BMK on portfolio Mauro_Test for date 2016-03-09.
+*************************
+*************************
+There is no information available for BMK Mauro_Test on date 2016-03-09
+*************************
+*************************
+No identifiers for type BMK on portfolio Mauro_Test for date 2016-03-09.
+*************************
+*************************
+Portfolio Mauro_Test priced for date 2016-03-09
+*************************
+*************************
+There is no information available for BMK Mauro_Test on date 2016-03-09
+*************************
+*************************
+No identifiers for type BMK on portfolio Mauro_Test for date 2016-03-09.
+*************************
+*************************
+Portfolio Mauro_Test priced for date 2016-03-09
+*************************
+*************************
+There is no information available for BMK Mauro_Test on date 2016-03-09
+*************************
+*************************
+Portfolio Mauro_Test priced for date 2016-03-09
+*************************
+*************************
+There is no information available for BMK Mauro_Test on date 2016-03-09
+*************************
+*************************
+Portfolio Mauro_Test priced for date 2016-03-09
+*************************
+*************************
+There is no information available for BMK Mauro_Test on date 2016-03-09
+*************************
+*************************
+No data available for pricing BMK (Mauro_Test). priceBMK() will exit.
+*************************
+*************************
+Portfolio Mauro_Test priced for date 2016-03-09
+*************************
+*************************
+BMK Mauro_Test priced for date 2016-03-09
+*************************
+*************************
+BMK Mauro_Test priced for date 2016-03-09
+*************************
+*************************
+Portfolio Mauro_Test priced for date 2016-03-09
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for TRADE_CRNCY,INFLATION_LINKED_INDICATOR,LEHMAN_SECURITY_QUALITY,ISSUER,MATURITY,DES_CASH_FLOW,TICKER for 2 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+Securities inserted to securitiesDescription using Bloomberg.
+*************************
+*************************
+
+(2016-03-09 12:16:43.126000) - START PRICING ALL:
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_DIRTY_MID,DUR_ADJ_MID,CNVX_ASK,YLD_CNV_LAST,OAS_SPREAD_ASK,PARTIAL_DURATIONS_AS_OF for 2 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(2) securities priced from Bloomberg for date (2016-03-09)
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for OAS_KEY_RATE_DUR_3M,OAS_KEY_RATE_DUR_6M,OAS_KEY_RATE_DUR_1YR,OAS_KEY_RATE_DUR_2YR,OAS_KEY_RATE_DUR_3YR,OAS_KEY_RATE_DUR_5YR,OAS_KEY_RATE_DUR_7YR,OAS_KEY_RATE_DUR_10YR,OAS_KEY_RATE_DUR_20YR,OAS_KEY_RATE_DUR_30YR for 1 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+KRD for linkers updated on date 2016-03-09 for (1) identifiers.
+*************************
+*************************
+No bills to price for date 2016-03-09
+*************************
+*************************
+(2016-03-09 12:16:54.756000) - END PRICING ALL.
+
+*************************
+*************************
+Portfolio Mauro_Test priced for date 2016-03-09
+*************************
+*************************
+BMK Mauro_Test priced for date 2016-03-09
+*************************
+*************************
+BMK Mauro_Test priced for date 2016-03-09
+*************************
+*************************
+BMK Mauro_Test priced for date 2016-03-09
+*************************
+*************************
+BMK Mauro_Test priced for date 2016-03-09
+*************************
+*************************
+BMK Mauro_Test priced for date 2016-03-09
+*************************
+*************************
+BMK Mauro_Test priced for date 2016-03-09
+*************************
+*************************
+BMK Mauro_Test priced for date 2016-03-09
+*************************
+*************************
+BMK Mauro_Test priced for date 2016-03-09
+*************************
+*************************
+BMK Mauro_Test priced for date 2016-03-09
+*************************
+*************************
+BMK Mauro_Test priced for date 2016-03-09
+*************************
+*************************
+New portfolio Prueba created at 2016-03-09 14:23:29.380000
+*************************
+*************************
+No data for Prueba portfolio in portfolios DataBase fro date 2016-03-09
+*************************
+*************************
+There is no information available for portfolios Prueba on date 2016-03-09
+*************************
+*************************
+No data for Prueba portfolio in portfolios DataBase fro date 2016-03-09
+*************************
+*************************
+There is no information available for portfolios Prueba on date 2016-03-09
+*************************
+*************************
+No data for Prueba portfolio in portfolios DataBase fro date 2016-03-09
+*************************
+*************************
+There is no information available for portfolios Prueba on date 2016-03-09
+*************************
+*************************
+No data for Prueba portfolio in portfolios DataBase fro date 2016-03-09
+*************************
+*************************
+There is no information available for portfolios Prueba on date 2016-03-09
+*************************
+*************************
+Portfolio Prueba priced for date 2016-03-09
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for TRADE_CRNCY,INFLATION_LINKED_INDICATOR,LEHMAN_SECURITY_QUALITY,ISSUER,MATURITY,DES_CASH_FLOW,TICKER for 1 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+Securities inserted to securitiesDescription using Bloomberg.
+*************************
+*************************
+
+(2016-03-09 14:31:51.601000) - START PRICING ALL:
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_DIRTY_MID,DUR_ADJ_MID,CNVX_ASK,YLD_CNV_LAST,OAS_SPREAD_ASK,PARTIAL_DURATIONS_AS_OF for 1 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(1) securities priced from Bloomberg for date (2016-03-09)
+*************************
+*************************
+No linkers KRD to be updated.
+*************************
+*************************
+No bills to price for date 2016-03-09
+*************************
+*************************
+(2016-03-09 14:31:56.448000) - END PRICING ALL.
+
+*************************
+*************************
+Portfolio Prueba priced for date 2016-03-09
+*************************
+*************************
+There is no information available for BMK Prueba on date 2016-03-09
+*************************
+*************************
+There is no information available for BMK Prueba on date 2016-03-09
+*************************
+*************************
+BMK Prueba priced for date 2016-03-09
+*************************
+*************************
+Portfolio Prueba priced for date 2016-03-09
+*************************
+*************************
+Deposits and/or Commercial Papers inserted to securitiesDescription.
+*************************
+*************************
+
+(2016-03-09 14:35:19.836000) - START PRICING ALL:
+*************************
+*************************
+(1) deposits or CP priced for date (2016-03-09)
+*************************
+*************************
+(2016-03-09 14:35:19.912000) - END PRICING ALL.
+
+*************************
+*************************
+Portfolio Prueba priced for date 2016-03-09
+*************************
+*************************
+BMK Prueba priced for date 2016-03-09
+*************************
+*************************
+Simulated trades are now committed on portfolio Prueba for date 2016-03-09
+*************************
+*************************
+
+(2016-03-10 08:34:43.929000) - START PRICING ALL:
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_DIRTY_MID,DUR_ADJ_MID,CNVX_ASK,YLD_CNV_LAST,OAS_SPREAD_ASK,PARTIAL_DURATIONS_AS_OF for 12 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(12) securities priced from Bloomberg for date (2016-03-10)
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for OAS_KEY_RATE_DUR_3M,OAS_KEY_RATE_DUR_6M,OAS_KEY_RATE_DUR_1YR,OAS_KEY_RATE_DUR_2YR,OAS_KEY_RATE_DUR_3YR,OAS_KEY_RATE_DUR_5YR,OAS_KEY_RATE_DUR_7YR,OAS_KEY_RATE_DUR_10YR,OAS_KEY_RATE_DUR_20YR,OAS_KEY_RATE_DUR_30YR for 2 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+KRD for linkers updated on date 2016-03-10 for (2) identifiers.
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_DISC_MID for 1 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(2016-03-10) Bills price updated on date 1.
+*************************
+*************************
+(16) currencies priced for date (2016-03-10)
+*************************
+*************************
+(6) deposits or CP priced for date (2016-03-10)
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_LAST for 15 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(16) FX priced for date (2016-03-10)
+*************************
+*************************
+(2016-03-10 08:34:53.983000) - END PRICING ALL.
+
+*************************
+*************************
+Portfolio Test opened for date 2016-03-10 using positions from 2016-03-09.
+*************************
+*************************
+Portfolio Test priced for date 2016-03-10
+*************************
+*************************
+BMK Test opened for date 2016-03-10 using positions from 2016-03-09.
+*************************
+*************************
+BMK Test priced for date 2016-03-10
+*************************
+*************************
+Portfolio Test priced for date 2016-03-10
+*************************
+*************************
+Simulated trades deleted from portfolio Test for date 2016-03-10
+*************************
+*************************
+Portfolio Test priced for date 2016-03-10
+*************************
+*************************
+New portfolio LMP created at 2016-03-10 14:36:34.942000
+*************************
+*************************
+Portfolio LMP priced for date 2016-03-10
+*************************
+*************************
+BMK LMP priced for date 2016-03-10
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for TRADE_CRNCY,INFLATION_LINKED_INDICATOR,LEHMAN_SECURITY_QUALITY,ISSUER,MATURITY,DES_CASH_FLOW,TICKER for 235 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+Securities inserted to securitiesDescription using Bloomberg.
+*************************
+*************************
+
+(2016-03-10 14:40:22.555000) - START PRICING ALL:
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_DIRTY_MID,DUR_ADJ_MID,CNVX_ASK,YLD_CNV_LAST,OAS_SPREAD_ASK,PARTIAL_DURATIONS_AS_OF for 235 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(235) securities priced from Bloomberg for date (2016-03-10)
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for OAS_KEY_RATE_DUR_3M,OAS_KEY_RATE_DUR_6M,OAS_KEY_RATE_DUR_1YR,OAS_KEY_RATE_DUR_2YR,OAS_KEY_RATE_DUR_3YR,OAS_KEY_RATE_DUR_5YR,OAS_KEY_RATE_DUR_7YR,OAS_KEY_RATE_DUR_10YR,OAS_KEY_RATE_DUR_20YR,OAS_KEY_RATE_DUR_30YR for 2 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+KRD for linkers updated on date 2016-03-10 for (2) identifiers.
+*************************
+*************************
+No bills to price for date 2016-03-10
+*************************
+*************************
+(2016-03-10 14:40:31.106000) - END PRICING ALL.
+
+*************************
+*************************
+Portfolio LMP priced for date 2016-03-10
+*************************
+*************************
+BMK LMP priced for date 2016-03-10
+*************************
+*************************
+
+(2016-03-11 08:39:15.017000) - START PRICING ALL:
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_DIRTY_MID,DUR_ADJ_MID,CNVX_ASK,YLD_CNV_LAST,OAS_SPREAD_ASK,PARTIAL_DURATIONS_AS_OF for 247 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(247) securities priced from Bloomberg for date (2016-03-11)
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for OAS_KEY_RATE_DUR_3M,OAS_KEY_RATE_DUR_6M,OAS_KEY_RATE_DUR_1YR,OAS_KEY_RATE_DUR_2YR,OAS_KEY_RATE_DUR_3YR,OAS_KEY_RATE_DUR_5YR,OAS_KEY_RATE_DUR_7YR,OAS_KEY_RATE_DUR_10YR,OAS_KEY_RATE_DUR_20YR,OAS_KEY_RATE_DUR_30YR for 4 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+KRD for linkers updated on date 2016-03-11 for (4) identifiers.
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_DISC_MID for 1 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(2016-03-11) Bills price updated on date 1.
+*************************
+*************************
+(16) currencies priced for date (2016-03-11)
+*************************
+*************************
+(6) deposits or CP priced for date (2016-03-11)
+*************************
+*************************
+ReferenceDataRequest: Requesting data from Bloomberg for PX_LAST for 15 securities.
+*************************
+*************************
+Data Retrieved.
+*************************
+*************************
+(16) FX priced for date (2016-03-11)
+*************************
+*************************
+(2016-03-11 08:39:29.804000) - END PRICING ALL.
+
+*************************
+*************************
+Portfolio Test opened for date 2016-03-11 using positions from 2016-03-10.
+*************************
+*************************
+Portfolio Test priced for date 2016-03-11
+*************************
+*************************
+BMK Test opened for date 2016-03-11 using positions from 2016-03-10.
+*************************
+*************************
+BMK Test priced for date 2016-03-11
+*************************
+*************************
+Portfolio LMP opened for date 2016-03-11 using positions from 2016-03-10.
+*************************
+*************************
+Portfolio LMP priced for date 2016-03-11
+*************************
+*************************
+BMK LMP opened for date 2016-03-11 using positions from 2016-03-10.
+*************************
+*************************
+BMK LMP priced for date 2016-03-11
+*************************
+*************************
+Portfolio Mauro_Test opened for date 2016-03-11 using positions from 2016-03-09.
+*************************
+*************************
+Portfolio Mauro_Test priced for date 2016-03-11
+*************************
+*************************
+BMK Mauro_Test opened for date 2016-03-11 using positions from 2016-03-09.
+*************************
+*************************
+BMK Mauro_Test priced for date 2016-03-11
+*************************
+*************************
+Portfolio LMP priced for date 2016-03-11
+*************************
+*************************
+Deposits and/or Commercial Papers inserted to securitiesDescription.
+*************************
+*************************
+
+(2016-03-11 14:45:45.385000) - START PRICING ALL:
+*************************
+*************************
+(1) deposits or CP priced for date (2016-03-11)
+*************************
+*************************
+(2016-03-11 14:45:45.491000) - END PRICING ALL.
+
+*************************
+*************************
+Portfolio LMP priced for date 2016-03-11
+*************************
+*************************
+BMK LMP priced for date 2016-03-11
+*************************
+*************************
+Simulated trades deleted from portfolio LMP for date 2016-03-11
+*************************
+*************************
+Portfolio LMP priced for date 2016-03-11
+*************************
