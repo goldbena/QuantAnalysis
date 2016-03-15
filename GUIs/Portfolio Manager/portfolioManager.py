@@ -4,7 +4,8 @@ Created on Tue Mar 01 12:53:11 2016
 
 @author: mvillalon
 
-This is the GUI for the Portfolio Managing Tool
+This code contains the main GUI for the Portfolio Managing Tool, and the child windows
+
 """
 
 import sys
